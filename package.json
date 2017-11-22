@@ -1,0 +1,17 @@
+{
+  "name": "map-file-tree",
+  "version": "1.0.0",
+  "description": "'tree' for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "tree",
+    "map",
+    "file",
+    "files"
+  ],
+  "author": "William W Brubaker",
+  "license": "ISC"
+}
